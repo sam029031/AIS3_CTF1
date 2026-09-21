@@ -1,11 +1,20 @@
 # ARBITER
 
+
 A smart-contract auditor whose findings are transcripts of executions rather than
 assertions. The agent cannot report a vulnerability; it has to write an attack that
 the harness compiles and runs, against a success condition the agent never sees.
 
 Everything is under [`arbiter/`](arbiter/). Start with
 [`arbiter/README.md`](arbiter/README.md).
+
+
+> **Fork note** — This is a fork of [yeee3642/AIS3_CTF1](https://github.com/yeee3642/AIS3_CTF1)
+> (**ARBITER**), a team project from AIS3 好厲駭 2026, where it was selected as **Best Project**.
+> I keep this fork as part of my portfolio; full authorship and history live in the original repo.
+>
+> **My role (4-person team, ~25%):** presentation lead; reviewed and challenged the overall
+> system architecture and proposed improvements; contributed code fixes.
 
 ## The evidence ladder
 
