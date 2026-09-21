@@ -10,7 +10,7 @@ Everything is under [`arbiter/`](arbiter/). Start with
 
 
 > **Fork note** — This is a fork of [yeee3642/AIS3_CTF1](https://github.com/yeee3642/AIS3_CTF1)
-> (**ARBITER**), a team project from AIS3 暑期培訓課程 2026, where it was selected as **Best Project**.
+> (**ARBITER**), a team project from AIS3 新型態資安暑期課程 2026, where it was selected as **Best Project**.
 > I keep this fork as part of my portfolio; full authorship and history live in the original repo.
 >
 > **My role (4-person team, ~25%):** presentation lead; reviewed and challenged the overall
